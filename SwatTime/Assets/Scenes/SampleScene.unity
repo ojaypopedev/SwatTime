@@ -567,8 +567,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  speedH: 4
-  speedV: 4
+  speedH: 2
+  speedV: 2
   yaw: 1
   pitch: 1
 --- !u!136 &257938074
@@ -2576,7 +2576,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1562465482}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -3043,7 +3043,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press a  to restart
+  m_Text: Press [SPACE] to restart
 --- !u!222 &1889846351
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3808,7 +3808,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Press  a  to Restart
+  m_Text: Press [SPACE] to restart
 --- !u!1 &778638160501430984
 GameObject:
   m_ObjectHideFlags: 0

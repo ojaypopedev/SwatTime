@@ -40,7 +40,7 @@ public class GameManager : MonoBehaviour
 
             if (timeLeft < 0)
             {
-                if (Input.GetButton("A")){
+                if (Input.GetKeyDown(KeyCode.Space)){
                     SceneManager.LoadScene(0);
                 }
             }
