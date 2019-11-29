@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "SwatTime",
+"productVersion": "0.1",
+"dataUrl": "Swat time.data.unityweb",
+"wasmCodeUrl": "Swat time.wasm.code.unityweb",
+"wasmFrameworkUrl": "Swat time.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
